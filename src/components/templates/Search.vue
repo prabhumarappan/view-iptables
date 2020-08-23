@@ -4,7 +4,7 @@
 
 <script>
 export default {
-name: "Templates"
+name: "Search"
 }
 </script>
 
